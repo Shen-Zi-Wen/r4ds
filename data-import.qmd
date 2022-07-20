@@ -15,7 +15,7 @@ Here, we'll only scratch the surface of data import, but many of the principles 
 
 ### Prerequisites
 
-In this chapter, you'll learn how to load flat files in R with the **readr** package, which is part of the core tidyverse.
+I*n this chapter, you'll learn how to load flat files in R with the **readr** package, which is part of the core* tidyverse.
 
 ```{r}
 #| label: setup
